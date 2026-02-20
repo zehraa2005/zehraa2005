@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me
 🏫 I'm a **2nd-year Computer Engineering** student at **Istinye University**.  
 🚀 I am currently working as a team member in the **Autonomous UAV (Unmanned Aerial Vehicle)** group for the Teknofest competition.  
-🤖 My passion lies in **Autonomous Systems**, **Robotics**, and **Software Development**.  
+🤖 My passion lies in **Autonomous Systems** and **Software Development**.  
 🌱 I’m currently improving my skills in **C++**, **Python**, and **ROS (Robot Operating System)**.
 
 ---
